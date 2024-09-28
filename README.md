@@ -1,8 +1,13 @@
 Hello World, I'm Sahil 👋
+
 🔭 I’m recent Computer Science Graduate from TU Dublin, Ireland and Also a Technical Support Engineer at Coupa.
+
 👯 I’m looking to collaborate with open source projects
+
 📫 How to reach me : sahilhooda3700@gmail.com
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I speak 2 languages (English, Hindi)
 
 
